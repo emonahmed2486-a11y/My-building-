@@ -1,0 +1,7 @@
+﻿ID,Date,Type,Category,Amount (BDT),Note
+"tx_seed_1","2026-10-26","income","Salary & Income",55000,"Monthly Office Salary"
+"tx_seed_2","2026-10-26","expense","Food & Dining",5400,"Weekly Bazar & Grocery"
+"tx_seed_3","2026-10-26","expense","Bills & Utilities",1850,"DESCO Electricity & WiFi Bill"
+"tx_seed_4","2026-10-26","expense","Transport",850,"Dhaka Metro Rail & Rickshaw"
+"tx_seed_5","2026-10-26","expense","Shopping",2200,"New shirts & household items"
+"tx_seed_6","2026-10-26","expense","Health & Medical",600,"Prescription medicine from pharmacy"
